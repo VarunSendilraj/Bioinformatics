@@ -18,4 +18,4 @@
 
 ##### - Lactase Enzyme (LCT GENE) Basic Sequence Analysis - Complete
 
-#####- Counting Promoter Elements using Regular Expression - Complete
+##### - Counting Promoter Elements using Regular Expression - Complete
