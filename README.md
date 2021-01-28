@@ -16,6 +16,6 @@
 
 ##### - 1000 Genome Project Yourban Female Protien Alaysis - Complete
 
-##### - Lactase Enzyme (LCT GENE) Basic Sequence Analysis - Complete
+##### - Lactase Enzyme (LCT GENE) Basic Sequence Analysis - Complete (Basic_Sequence_Analysis Folder)
 
-##### - Counting Promoter Elements using Regular Expression - Complete
+##### - Counting Promoter Elements using Regular Expression - Complete (RegularExpressionBioinformatics Folder)
